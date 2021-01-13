@@ -1,0 +1,7 @@
+[package]
+name = "minimark"
+version = "0.1.0"
+authors = [""]
+edition = "2018"
+description = "a very small markdown compiler"
+[dependencies]
